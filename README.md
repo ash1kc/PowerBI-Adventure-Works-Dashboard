@@ -5,19 +5,19 @@
 
 # AW Cycles Sales and Order Data Analysis
 
-This project focuses on analyzing sales and order data for **AW Cycles**, a bicycle company, to extract actionable insights and improve business decision-making. Using **Microsoft Power BI**, various datasets were visualized and analyzed to uncover patterns in product sales, revenue, and customer behavior. The project aims to identify key trends in performance, customer demographics, and product demand to support strategic planning and operational improvements.
+This project focuses on analysing sales and order data for **AW Cycles**, a bicycle company, to extract actionable insights and improve business decision-making. Using **Microsoft Power BI**, various datasets were visualised and analysed to uncover patterns in product sales, revenue, and customer behaviour. The project aims to identify key trends in performance, customer demographics, and product demand to support strategic planning and operational improvements.
 
 ## Objectives
 
 - Perform detailed analysis of total orders, revenue, and returns.
 - Visualize product performance across categories such as Accessories, Bikes, and Clothing.
-- Analyze customer demographics and purchasing behaviors, including income level, occupation, and gender.
+- Analyze customer demographics and purchasing behaviours, including income level, occupation, and gender.
 - Track sales performance against goals for revenue, orders, and returns.
 - Identify top-performing products, customer trends, and seasonal variations.
 
 ## Key Features
 
-- **Interactive Dashboards**: Created visualizations such as bar charts, line charts, and KPIs to track weekly profits, monthly revenue, and returns.
+- **Interactive Dashboards**: Created visualisations such as bar charts, line charts, and KPIs to track weekly profits, monthly revenue, and returns.
 - **Customer Insights**: Analyzed customer orders by income level, age group, and occupation.
 - **Product Performance**: Identified the best-selling products and categories by order volume and revenue.
 - **Business Targets**: Evaluated current performance metrics against defined goals for sales and returns.
@@ -25,7 +25,7 @@ This project focuses on analyzing sales and order data for **AW Cycles**, a bicy
 
 ## Technologies Used
 
-- **Microsoft Power BI**: For data visualization and dashboard creation.
+- **Microsoft Power BI**: For data visualisation and dashboard creation.
 - **Data Analysis Techniques**: Included filtering, grouping, and trend analysis to derive meaningful insights.
 
 ## Key Insights
@@ -33,8 +33,8 @@ This project focuses on analyzing sales and order data for **AW Cycles**, a bicy
 - **Total Orders Processed**: 25,164, generating **$24,914,567.18** in revenue.
 - **Top Product by Orders**: Water Bottle - 30 oz., with 3,889 units sold.
 - **Highest Revenue-Generating Product**: Mountain-200 Black (size 46).
-- Orders categorized by income level and occupation revealed key customer segments.
-- **Gender-Based Analysis**: Identified significant patterns in purchasing behaviors between male and female customers.
+- Orders categorised by income level and occupation revealed key customer segments.
+- **Gender-Based Analysis**: Identified significant patterns in purchasing behaviours between male and female customers.
 
 ## Impact
 
